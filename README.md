@@ -5,7 +5,8 @@ This Project is a WebApi configured with Microsoft Identity. It serves as a demo
 ### Backend Technologies
 - Asp.net API
 - Entity Framework Core
-- Azure SQL
+- ElephantSQL Cloud
+- PostgreSQL
 - Xunit
 - Serilog
 - ThunderClient
