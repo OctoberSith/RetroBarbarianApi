@@ -1,6 +1,6 @@
-# WebApi Configured for Identity
+# Simple ASP.NET WebApi
 ## Project Description
-This Project is a WebApi configured with Microsoft Identity. It serves as a demo and practice project. 
+This Project is a Simple ASP.NET WebApi. It serves as a demo and practice project. 
 ## Tech Stack
 ### Backend Technologies
 - Asp.net API
